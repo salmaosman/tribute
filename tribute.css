@@ -1,0 +1,87 @@
+#main
+{
+    background-color: rgb(165, 164, 164);
+    border: transparent solid 2px;
+    border-radius: 10px;
+}
+
+#title
+{
+    color: white;
+    text-align: center;
+}
+
+.headline
+{
+    color: white;
+    text-align: center;
+}
+
+#container
+{
+    background-color: white;
+    width: 80em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#image
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 30%;
+    padding-top: 2.5%;
+}
+
+#img-caption
+{
+    text-align: center;
+    font-weight: bold;
+    padding-bottom: 2.5%;
+}
+
+#tribute-info
+{
+
+}
+
+h2
+{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+
+.list
+{
+    color: white;
+    text-align: left;
+    margin-left: 20em;
+    margin-top: 2.5em;
+    list-style-position: inside;
+    margin-bottom: 5px;
+}
+.listitems
+{
+    margin-bottom: 1em;
+    list-style-position: inside;
+    text-indent: -1.3em;
+    font-weight: bold;
+    font-size: 20px;
+}
+#quote
+{
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 2.5em;
+    margin-bottom: 2.5em;
+}
+#theend
+{
+    font-size: x-large;
+    text-align: center;
+    font-weight: bolder;
+}
